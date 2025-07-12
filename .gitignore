@@ -1,0 +1,10 @@
+*.exe
+*.zip
+*.rar
+*.7z
+*.dll
+*.iso
+node_modules/
+.vscode/
+.DS_Store
+Thumbs.db
